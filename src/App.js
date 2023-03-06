@@ -26,7 +26,7 @@ function App() {
         </p>
       )}
       <input onChange={handlesearch} placeholder="search for a city" />
-      <button onClick={getLocation}>Get Data</button>
+      <button onClick={getLocation}>Explore</button>
     </div>
   );
 }
